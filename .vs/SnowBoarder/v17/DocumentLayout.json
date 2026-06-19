@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\SnowBoarder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59787809-AD6B-5F67-8EAF-54B5D682C293}|Assembly-CSharp.csproj|c:\\users\\lenovo\\snowboarder\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59787809-AD6B-5F67-8EAF-54B5D682C293}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59787809-AD6B-5F67-8EAF-54B5D682C293}|Assembly-CSharp.csproj|C:\\Users\\LENOVO\\SnowBoarder\\assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59787809-AD6B-5F67-8EAF-54B5D682C293}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59787809-AD6B-5F67-8EAF-54B5D682C293}|Assembly-CSharp.csproj|C:\\Users\\LENOVO\\SnowBoarder\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59787809-AD6B-5F67-8EAF-54B5D682C293}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59787809-AD6B-5F67-8EAF-54B5D682C293}|Assembly-CSharp.csproj|C:\\Users\\LENOVO\\SnowBoarder\\assets\\scripts\\speedboost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59787809-AD6B-5F67-8EAF-54B5D682C293}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\speedboost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59787809-AD6B-5F67-8EAF-54B5D682C293}|Assembly-CSharp.csproj|C:\\Users\\LENOVO\\SnowBoarder\\assets\\scripts\\trickdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59787809-AD6B-5F67-8EAF-54B5D682C293}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trickdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59787809-AD6B-5F67-8EAF-54B5D682C293}|Assembly-CSharp.csproj|C:\\Users\\LENOVO\\SnowBoarder\\assets\\scripts\\crashdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59787809-AD6B-5F67-8EAF-54B5D682C293}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\crashdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59787809-AD6B-5F67-8EAF-54B5D682C293}|Assembly-CSharp.csproj|C:\\Users\\LENOVO\\SnowBoarder\\assets\\scripts\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59787809-AD6B-5F67-8EAF-54B5D682C293}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59787809-AD6B-5F67-8EAF-54B5D682C293}|Assembly-CSharp.csproj|C:\\Users\\LENOVO\\SnowBoarder\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59787809-AD6B-5F67-8EAF-54B5D682C293}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59787809-AD6B-5F67-8EAF-54B5D682C293}|Assembly-CSharp.csproj|C:\\Users\\LENOVO\\SnowBoarder\\assets\\scripts\\finalscoredisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59787809-AD6B-5F67-8EAF-54B5D682C293}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finalscoredisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59787809-AD6B-5F67-8EAF-54B5D682C293}|Assembly-CSharp.csproj|C:\\Users\\LENOVO\\SnowBoarder\\assets\\scripts\\snowflake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59787809-AD6B-5F67-8EAF-54B5D682C293}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\snowflake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpeedBoost.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\SnowBoarder\\Assets\\Scripts\\SpeedBoost.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpeedBoost.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\SnowBoarder\\Assets\\Scripts\\SpeedBoost.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpeedBoost.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T03:04:42.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrickDetector.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\SnowBoarder\\Assets\\Scripts\\TrickDetector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TrickDetector.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\SnowBoarder\\Assets\\Scripts\\TrickDetector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TrickDetector.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T02:56:29.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainMenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\SnowBoarder\\Assets\\Scripts\\MainMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuManager.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\SnowBoarder\\Assets\\Scripts\\MainMenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T02:09:57.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FinalScoreDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\SnowBoarder\\Assets\\Scripts\\FinalScoreDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinalScoreDisplay.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\SnowBoarder\\Assets\\Scripts\\FinalScoreDisplay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinalScoreDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T16:59:58.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Snowflake.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\SnowBoarder\\Assets\\Scripts\\Snowflake.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Snowflake.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\SnowBoarder\\Assets\\Scripts\\Snowflake.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Snowflake.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T16:19:30.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\SnowBoarder\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\SnowBoarder\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T16:18:34.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinishLine.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\SnowBoarder\\Assets\\Scripts\\FinishLine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishLine.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\SnowBoarder\\Assets\\Scripts\\FinishLine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishLine.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T15:40:07.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CrashDetector.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\SnowBoarder\\Assets\\Scripts\\CrashDetector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CrashDetector.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\SnowBoarder\\Assets\\Scripts\\CrashDetector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CrashDetector.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T03:55:40.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\SnowBoarder\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\SnowBoarder\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T07:46:02.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\SnowBoarder\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\SnowBoarder\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T03:49:14.6Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1309,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
